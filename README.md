@@ -12,7 +12,7 @@ planning, education, infant mortality, diarrhea, fertility etc\
 Cameroon and South Africa\.
 
 #Variables in Data#\
-Variable Description are contained in the brackets\
+Variable Description are contained in the brackets
 
 HV00(Country)\
 hhid (Household id)\
