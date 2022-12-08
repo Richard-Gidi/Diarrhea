@@ -1,18 +1,18 @@
 # Diarrhea
-Built a predictive model to predict diarrhea given some factors
+Built a predictive model to predict diarrhea given some factors\
 
 ”Demographic and Health Surveys (DHS) are
 nationally-representative household surveys that provide data
 for a wide range of monitoring and impact evaluation
-indicators in the areas of population, health, and nutrition.”
+indicators in the areas of population, health, and nutrition.”\
 •Some thematic areas include anemia, malaria, family
-planning, education, infant mortality, diarrhea, fertility etc
-•Data focuses on diarrhea
+planning, education, infant mortality, diarrhea, fertility etc\
+•Data focuses on diarrhea\
 • Countries include; Ghana, Nigeria, Burkina Faso, Kenya,
-Cameroon and South Africa.
+Cameroon and South Africa.\
 
-#Variables in Data#
-Variable Description are contained in the brackets
+#Variables in Data#\
+Variable Description are contained in the brackets\
 
 HV00(Country)
 hhid (Household id)
