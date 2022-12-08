@@ -1,5 +1,5 @@
 # Diarrhea
-Built a predictive model to predict diarrhea given some factors\
+Built a predictive model to predict diarrhea given some factors
 
 ”Demographic and Health Surveys (DHS) are
 nationally-representative household surveys that provide data
@@ -32,5 +32,5 @@ ageHHgroup (Age of head of household)\
 hhWealth (Household wealth status)\
 HHSize (Household size continuous)\
 HHSizeCat (Household size categorized)\
-diarrhea (Diarrhea in the past two weeks)\
+diarrhea (Diarrhea in the past two weeks)
 
