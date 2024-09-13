@@ -1,4 +1,4 @@
-# Diarrhoea
+# Diarrhea
 Built a predictive model to predict diarrhea given some factors
 
 ”Demographic and Health Surveys (DHS) are
